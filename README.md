@@ -21,4 +21,4 @@ then the w6_activity2_client.py
 
 If the website is not hosted then host the index.html file on localhost and change the code accordingly.
 
-*The source of template and the html page belongs to eyantra.*
+*The source code of the html page belongs to eyantra.*
